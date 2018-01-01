@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icopix"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_kannada"
+            android:icon="@drawable/icopix"
+            android:title="Kannada" />
+        <item
+            android:id="@+id/nav_english"
+            android:icon="@drawable/icopix"
+            android:title="English" />
+        <item
+            android:id="@+id/nav_hindi"
+            android:icon="@drawable/icopix"
+            android:title="Hindi" />
+        <item
+            android:id="@+id/nav_telagu"
+            android:icon="@drawable/icopix"
+            android:title="Telagu" />
+        <item
+            android:id="@+id/nav_tamil"
+            android:icon="@drawable/icopix"
+            android:title="Tamil" />
+        <item
+            android:id="@+id/nav_malyalam"
+            android:icon="@drawable/icopix"
+            android:title="Malyalam" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/icopix"
+            android:title="About Us" />
+    </group>
+
+
+
+</menu>
